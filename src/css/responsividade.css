@@ -1,0 +1,43 @@
+
+body, html{
+  height: 100%;
+  margin: 0; /* Removendo margens padrão */
+  padding: 0; /* Removendo preenchimentos padrão */
+}
+
+@media screen and (max-width: 600px) {
+    .texto1,
+    .texto3,
+    .texto5 {
+        margin-left: 0;
+        text-align: left; /* Ajuste para centralizar o texto em telas menores */
+    }
+  
+    .texto11,
+    .texto33,
+    .texto55 {
+        margin-right: 0;
+        text-align: left; /* Ajuste para centralizar o texto em telas menores */
+    }
+  
+    
+         /* Altera a largura para ocupar toda a largura da tela */
+    
+  }
+  
+  
+  @media screen and (min-width: 430px) {
+    .texto2,
+    .texto4{
+      font-size: 200%;
+    }
+  }
+  
+  
+  img {
+    max-width: 100%; 
+    height: auto; 
+  }
+
+  
+    

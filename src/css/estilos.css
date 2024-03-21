@@ -1,0 +1,57 @@
+
+body{
+  background: linear-gradient(to right, #5DE2E7 0%, #5DE2E7 40%, #8A28BE 60%, #8A28BE 100%);
+  font-family: Arial, sans-serif;
+}
+
+.texto1,
+.texto3,
+.texto5{
+      color: #ffffff;
+      margin-left: 60%; 
+      text-align: right;
+  }
+
+  
+
+.texto11,
+.texto33,
+.texto55{
+        color: #ffffff;
+        margin-right: 2%; 
+        text-align: right;
+    }
+
+
+.texto2,
+.texto4{
+  width: 40%;
+  font-size: 40%;
+  
+}
+    
+li{
+  float: left;
+
+}
+
+.texto5{
+  clear:both;
+}
+
+a{
+  color: #ffffff;
+}
+
+.mulher2{
+  margin-right: 90%;
+  position: relative;
+  top: 280px;
+  float: left;
+
+}
+
+.texto11,
+.texto1{
+  margin-top: 0;
+}
