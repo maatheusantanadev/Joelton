@@ -9,7 +9,8 @@ body, html{
 }
 
 .texto1,
-.texto3
+.texto3,
+.texto5
 {
       color: #ffffff;
       margin-left: 60%; 
@@ -20,7 +21,8 @@ body, html{
   
 
 .texto11,
-.texto33{
+.texto33,
+.texto55{
         color: #ffffff;
         margin-right: 2%; 
         text-align: right;
@@ -38,7 +40,7 @@ body, html{
 
 
 a{
-  color:black;
+  color:#ffffff;
 }
 
 .mulher2{
@@ -57,9 +59,4 @@ a{
   
 li{
   margin-bottom: 10px;
-}
-
-.texto11,
-.texto1{
-  margin-top: 0;
 }
