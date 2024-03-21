@@ -1,7 +1,11 @@
 
-body{
+body, html{
   background: linear-gradient(to right, #5DE2E7 0%, #5DE2E7 40%, #8A28BE 60%, #8A28BE 100%);
   font-family: Arial, sans-serif;
+  border: 10px;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .texto1,
@@ -10,6 +14,7 @@ body{
       color: #ffffff;
       margin-left: 60%; 
       text-align: right;
+      margin-right: 2%;
   }
 
   
@@ -27,17 +32,11 @@ body{
 .texto4{
   width: 40%;
   font-size: 40%;
+  margin-left: 2%;
   
 }
     
-li{
-  float: left;
 
-}
-
-.texto5{
-  clear:both;
-}
 
 a{
   color: #ffffff;
