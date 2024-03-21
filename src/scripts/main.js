@@ -29,5 +29,5 @@ var imagem = document.getElementById('email');
 // Adiciona um ouvinte de evento de clique à imagem
 imagem.addEventListener('click', function() {
     // Exibe um alerta ao clicar na imagem
-    alert('emedsj@mdcknwok.com');
+    alert('joelton_silva_2007@yahoo.com.br');
 });
