@@ -23,3 +23,11 @@ document.querySelector(".link2").addEventListener("click", function (){
 document.querySelector(".link1").addEventListener("click", function (){
     alert("Comprometemo-nos a ser vereador aberto, mostrando claramente como cada real do dinheiro público é utilizado.");
 });
+
+var imagem = document.getElementById('email');
+
+// Adiciona um ouvinte de evento de clique à imagem
+imagem.addEventListener('click', function() {
+    // Exibe um alerta ao clicar na imagem
+    alert('emedsj@mdcknwok.com');
+});
