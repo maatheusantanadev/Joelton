@@ -1,6 +1,6 @@
 
 body, html{
-  background: linear-gradient(to right, #5DE2E7 0%, #5DE2E7 40%, #8A28BE 60%, #8A28BE 100%);
+  background: linear-gradient(to right, #9D6DF2 0%, #5DE2E7 40%, #8A28BE 60%, #8A28BE 100%);
   font-family: Arial, sans-serif;
   border: 10px;
   height: 100%;
@@ -17,6 +17,7 @@ body, html{
       margin-left: 60%; 
       text-align: right;
       margin-right: 2%;
+      
   }
 
   
@@ -25,7 +26,7 @@ body, html{
 .texto33,
 .texto55{
         color: #ffffff;
-        margin-right: 2%; 
+        margin-right: 5%; 
         text-align: right;
     }
 
@@ -35,6 +36,7 @@ body, html{
   width: 40%;
   font-size: 40%;
   margin-left: 2%;
+  
   
 }
     
@@ -47,8 +49,9 @@ a{
 .mulher2{
   margin-right: 90%;
   position: relative;
-  top: 280px;
+  top: 100px;
   float: left;
+  margin-bottom: 200px;
 
 }
 
@@ -57,3 +60,36 @@ a{
   margin-top: 0;
 }
 
+li{
+  margin-bottom: 10px;
+  margin-right: 85%;
+
+}
+
+
+.o,
+.i{
+  color: #8A28BE;
+}
+
+
+.texto2,
+.texto4{
+  box-shadow: 2px 2px 5px #ffffff;
+}
+
+.texto1,
+.texto3{
+  box-shadow: 2px 2px 5px #ffffff;
+}
+
+.texto44,
+.texto22{
+  margin-left: 2%;
+
+}
+
+.instagram{
+  margin-right: 2%;
+  margin-left: 4%;
+}
