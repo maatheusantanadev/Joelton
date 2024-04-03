@@ -14,7 +14,7 @@ body, html{
 .texto5
 {
       color: #ffffff;
-      margin-left: 60%; 
+      margin-left: 50%; 
       text-align: right;
       margin-right: 2%;
       
@@ -23,13 +23,16 @@ body, html{
   
 
 .texto11,
-.texto33,
-.texto55{
+.texto33{
         color: #ffffff;
-        margin-right: 5%; 
+        margin-right: 18%; 
         text-align: right;
     }
-
+.texto55{
+      color: #ffffff;
+      margin-right: 11%; 
+      text-align: right;
+  }
 
 .texto2,
 .texto4{
@@ -52,17 +55,6 @@ a{
   top: 100px;
   float: left;
   margin-bottom: 200px;
-
-}
-
-.texto11,
-.texto1{
-  margin-top: 0;
-}
-
-li{
-  margin-bottom: 10px;
-  margin-right: 85%;
 
 }
 
@@ -93,3 +85,25 @@ li{
   margin-right: 0.5%;
   margin-left: 4%;
 }
+
+
+li {
+  display: flex;
+  align-items: center; /* Alinhar verticalmente os itens */
+  
+}
+
+li img.mao {
+  margin-right: 10px; /* Espaço entre a imagem e o texto */
+}
+
+.texto5 {
+  list-style: none;
+
+}
+
+.texto55 {
+  color: #ffffff;
+ 
+}
+
