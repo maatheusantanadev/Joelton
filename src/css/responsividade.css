@@ -28,7 +28,10 @@ body, html{
   
   @media screen and (min-width: 430px) {
     .texto2,
-    .texto4{
+    .texto4,
+    .texto1,
+    .texto3,
+    .texto5{
       font-size: 200%;
     }
   }
@@ -39,5 +42,7 @@ body, html{
     height: auto; 
   }
 
+  
+    
   
     
