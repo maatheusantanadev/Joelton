@@ -31,7 +31,8 @@ document.querySelector(".link1").addEventListener("click", function (){
 var imagem = document.getElementById('email');
 
 // Adiciona um ouvinte de evento de clique à imagem
-imagem.addEventListener('click', function() {
+document.querySelector(".gmail").addEventListener('click', function() {
     // Exibe um alerta ao clicar na imagem
     alert('joelton_silva_2007@yahoo.com.br');
 });
+
