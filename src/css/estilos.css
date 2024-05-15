@@ -81,6 +81,7 @@ a{
 
 }
 
+
 .instagram{
   margin-right: 0.5%;
   margin-left: 4%;
@@ -106,4 +107,9 @@ li img.mao {
   color: #ffffff;
  
 }
+
+li a:hover{
+  color: black;
+}
+
 
